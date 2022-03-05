@@ -1,0 +1,1 @@
+web: gunicorn kripa.wsgi --log-file -
